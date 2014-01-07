@@ -35,10 +35,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/paul90/wiki-plugin-force.git"
+    "url": "https://github.com/fedwiki/wiki-plugin-force.git"
   },
   "bugs": {
-    "url": "https://github.com/paul90/wiki-plugin-force/issues"
+    "url": "https://github.com/fedwiki/wiki-plugin-force/issues"
   },
   "engines": {
     "node": "0.10"

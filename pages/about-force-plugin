@@ -641,7 +641,7 @@
     {
       "type": "paragraph",
       "id": "4604beff2443e635",
-      "text": "See [https://github.com/WardCunningham/Smallest-Federated-Wiki/tree/master/client/plugins/force GitHub] for plugin source."
+      "text": "See [https://github.com/fedwiki/wiki-plugin-force GitHub] for plugin source."
     },
     {
       "type": "paragraph",
@@ -1612,6 +1612,16 @@
         "text": "The data item is expected to be formatted as an object with two parts, \"nodes\" and \"links\", both arrays."
       },
       "date": 1352514999495
+    },
+    {
+      "type": "edit",
+      "id": "4604beff2443e635",
+      "item": {
+        "type": "paragraph",
+        "id": "4604beff2443e635",
+        "text": "See [https://github.com/fedwiki/wiki-plugin-force GitHub] for plugin source."
+      },
+      "date": 1389109496554
     }
   ]
 }
