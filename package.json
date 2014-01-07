@@ -1,8 +1,8 @@
 {
-	"name":	"wiki-plugin-force",
-	"version":	"0.1.0",
-	"description": "Federated Wiki - Force Plug-in",
-	"keywords":	[
+  "name": "wiki-plugin-force",
+  "version": "0.1.1",
+  "description": "Federated Wiki - Force Plug-in",
+  "keywords": [
     "wiki",
     "federated wiki",
     "plugin"
