@@ -609,9 +609,9 @@
       "text": "Double-click dotes to open a corresponding page, if any."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "107ab31edc0ce7e1",
-      "text": "<h3> Data"
+      "text": "<h3>Data</h3>"
     },
     {
       "type": "paragraph",
@@ -644,7 +644,7 @@
       "text": "See [https://github.com/fedwiki/wiki-plugin-force GitHub] for plugin source."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "8631608eac5dd73e",
       "text": "The plugin is adapted from the <i>Les Misérables</i> [http://mbostock.github.com/d3/ex/force.html example] from the d3.js documentation."
     }
@@ -1622,6 +1622,37 @@
         "text": "See [https://github.com/fedwiki/wiki-plugin-force GitHub] for plugin source."
       },
       "date": 1389109496554
+    },
+    {
+      "type": "edit",
+      "id": "107ab31edc0ce7e1",
+      "item": {
+        "type": "html",
+        "id": "107ab31edc0ce7e1",
+        "text": "<h3> Data"
+      },
+      "date": 1418314882461
+    },
+    {
+      "type": "edit",
+      "id": "107ab31edc0ce7e1",
+      "item": {
+        "type": "html",
+        "id": "107ab31edc0ce7e1",
+        "text": "<h3>Data</h3>"
+      },
+      "date": 1418314890064
+    },
+    {
+      "type": "edit",
+      "id": "8631608eac5dd73e",
+      "item": {
+        "type": "html",
+        "id": "8631608eac5dd73e",
+        "text": "The plugin is adapted from the <i>Les Misérables</i> [http://mbostock.github.com/d3/ex/force.html example] from the d3.js documentation."
+      },
+      "date": 1418314895807
     }
-  ]
+  ],
+  "plugin": "force"
 }
