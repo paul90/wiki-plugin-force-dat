@@ -1,3 +1,10 @@
+###
+ * Federated Wiki : Force Plugin
+ *
+ * Licensed under the MIT license.
+ * https://github.com/fedwiki/wiki-plugin-force/blob/master/LICENSE.txt
+###
+
 window.plugins.force =
   bind: (div, item) ->
   emit: (div, item) ->
